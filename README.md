@@ -1,7 +1,9 @@
 
-<p align="center">
-  <img height="270" src="https://im2.ezgif.com/tmp/ezgif-2-919272cfc7.gif"/>
-</p>
+<div align="center">
+  
+ ![readme_gif](https://user-images.githubusercontent.com/92990447/170550792-607c3bba-d3c2-4cdc-a55f-a5fb915dc6f0.gif)
+ 
+</div>
 
 <h1 align="center">
   
