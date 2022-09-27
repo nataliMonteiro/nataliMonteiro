@@ -13,7 +13,7 @@
 </h1>
 
     Hi there, I'm Nátali 👾
-    Software Engineer @ PicPay
+    Software Engineer @ Dell
     
     - Back-End Developer
     - Java and Spring Boot 
