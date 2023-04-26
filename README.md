@@ -13,7 +13,7 @@
 </h1>
 
     Hi there, I'm Nátali 👾
-    Software Engineer @ Dell
+    Software Engineer @e-core
     
     - Back-End Developer
     - Java and Spring Boot 
