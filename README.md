@@ -1,9 +1,5 @@
 
-<div align="center">
-  
- ![readme_gif](https://user-images.githubusercontent.com/92990447/170550792-607c3bba-d3c2-4cdc-a55f-a5fb915dc6f0.gif)
- 
-</div>
+
 
 <h1 align="center">
   
