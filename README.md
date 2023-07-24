@@ -13,7 +13,6 @@
     
     - Back-End Developer
     - Java and Spring Boot 
-    - I love games and cats 🎮 😽
      
  -------------------------------------------------------------------------------------------------------------------------------------------------------
 `These are some of the technologies and tools that I work with:`
