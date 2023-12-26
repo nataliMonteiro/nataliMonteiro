@@ -12,7 +12,6 @@
     Software Engineer @e-core
     
     - Back-End Developer
-    - Java and Spring Boot 
      
  -------------------------------------------------------------------------------------------------------------------------------------------------------
 `These are some of the technologies and tools that I work with:`
